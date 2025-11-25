@@ -13,7 +13,8 @@ This project explores an **integrative machine-learning framework** that combine
 ---
 
 ## 📄 What’s in this Repository
-
+- Final_DS_pipeline.ipynb # Main Jupyter notebook containing the full analysis pipeline
+- README.md # This documentation file
 
 ---
 
@@ -67,7 +68,7 @@ This project explores an **integrative machine-learning framework** that combine
     # or venv\Scripts\activate     # Windows  
     pip install -r requirements.txt
     ```  
-   *(If you don’t have a `requirements.txt`, manually install required packages used in the notebook.)*
+   *(If you don’t have a `requirements.txt`, manually install the required packages used in the notebook.)*
 
 3. Launch the notebook:  
     ```bash
@@ -85,21 +86,6 @@ This project is inspired by prior research on integrating genomic and clinical d
 
 ---
 
-## 🤝 Contributing & Contact
-
-Contributions, suggestions, or questions are very welcome. Feel free to open an issue or pull request.  
-
-**Author:** haiderabbas678 (GitHub)  
-If you prefer direct contact or collaboration, please DM me on GitHub or leave a comment — I am open to collaborative extensions, alternative modeling approaches, or additional data integration (e.g., mutation, copy number variation, epigenetics).
-
----
-
-## ⚠️ Disclaimer & Data Use
-
-- This repository demonstrates a research-oriented proof-of-concept. It is not a clinical tool and should not be used for patient diagnosis or risk stratification without extensive validation.  
-- Gene expression data and clinical metadata may be subject to privacy / data-use restrictions depending on source — ensure compliance before reusing.
-
----
 
 ## 📝 License
 
@@ -107,8 +93,5 @@ This project is provided under the [MIT License](LICENSE), or see licensing info
 
 ---
 
-## Acknowledgments
-
-Thank you to all collaborators and data contributors whose work made this analysis possible.  
 
 
