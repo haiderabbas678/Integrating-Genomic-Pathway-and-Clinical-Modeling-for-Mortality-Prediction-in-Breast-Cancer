@@ -5,7 +5,6 @@ This repository explores a machine learning framework to predict **mortality ris
 The main analysis is implemented in:  
 📄 **[Final_DS_pipeline.ipynb](Final_DS_pipeline.ipynb)**
 
-> ⚠️ **Important**: The notebook file currently returns a GitHub session error when viewed online (e.g., "You signed in with another tab..."). This typically indicates a rendering issue or access problem—not necessarily missing content. The notebook may still be valid locally or in raw form. Please download the `.ipynb` file to inspect or run it.
 
 ---
 
@@ -13,7 +12,7 @@ The main analysis is implemented in:
 
 Breast cancer outcomes vary widely due to molecular heterogeneity. While clinical models provide baseline risk estimates, they often miss key biological drivers of aggressiveness. This project aims to:
 
-- Extract pathway-level signals from transcriptomic data (e.g., using MSigDB gene sets)
+- Extract pathway-level signals from transcriptomic data 
 - Merge these signals with clinical metadata
 - Train and validate machine learning models for binary mortality prediction
 - Interpret model behavior using feature importance or SHAP values
@@ -22,6 +21,6 @@ This integrative approach supports **precision oncology** by linking molecular m
 
 ---
 
-## 📁 Repository Structure /
-├── Final_DS_pipeline.ipynb # Main Jupyter notebook (may require local download to view) /
-└── README.md # This file
+## 📁 Repository Structure 
+├── Final_DS_pipeline.ipynb   # Main Jupyter notebook (may require local download to view)
+└── README.md                 # This file
